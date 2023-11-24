@@ -8,8 +8,8 @@ Display a list of countries
 Show at most four neighboring countries for each country
 
 ## Demo
+![image](https://github.com/esombi/Render-country-and-Neighbours/assets/52773181/b12435e9-90b4-4e0c-bfe9-4c514c6f8211)
 
-![image](https://github.com/esombi/Render-country-and-Neighbours/assets/52773181/a28cf796-c5f6-464e-8ac9-3305405a49c7)
 
 
 ## Table of Contents
